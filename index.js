@@ -24,7 +24,7 @@ try {
                             }, 4000 * i)
                         }
 
-                        Discord.info('EL GERA ES GAY');
+                        Discord.info('BOT ACTIVO');
                     });
                 }
 
