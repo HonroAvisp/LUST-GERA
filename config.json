@@ -1,0 +1,41 @@
+{
+    "mongodb_uri": "mongodb+srv://Gera:Nata2410@engcook.ecmml.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "webhook_url": [
+        "https://discord.com/api/webhooks/887131790551158794/NZNoZrSVXRgwLjj-GY2qDSZ8QekEs4OXQgirZXnwh27tNenlGu-MToCkvujllZCtfLWU"
+    ],
+    "discord_message_settings": {
+        "botImage": "https://cdn.discordapp.com/attachments/885745253469028382/887131870561710091/Screenshot_20210913-183616_WhatsApp.png",
+        "botName": "ENG bOt",
+        "footerDescription": "Powered by WORLD",
+        "footerImage": "https://cdn.discordapp.com/attachments/885745253469028382/887131870561710091/Screenshot_20210913-183616_WhatsApp.png",
+        "timeOfNotification": true
+    },
+    "requestTiming": 30000,
+    "__KEYWORDS_EXPLAINED" :  [],
+    "sites": [
+     
+        { "url": "lustmexico.com" }
+    ],
+    "proxiesList": [ 
+"http://hrblicxt:h0l781re411b@104.227.76.149:6246",
+"http://hrblicxt:h0l781re411b@23.229.122.120:8148",
+"http://hrblicxt:h0l781re411b@23.229.110.160:8688",
+"http://hrblicxt:h0l781re411b@144.168.241.69:8663",
+"http://hrblicxt:h0l781re411b@45.57.225.180:9262",
+"http://hrblicxt:h0l781re411b@138.128.106.133:8698",
+"http://hrblicxt:h0l781re411b@161.0.24.10:6034",
+"http://hrblicxt:h0l781re411b@192.186.186.123:6165",
+"http://hrblicxt:h0l781re411b@200.10.38.78:8600",
+"http://hrblicxt:h0l781re411b@192.186.172.59:9059",
+"http://hrblicxt:h0l781re411b@192.186.151.133:8634",
+"http://hrblicxt:h0l781re411b@23.254.62.65:6138",
+"http://hrblicxt:h0l781re411b@45.158.185.25:8537",
+"http://hrblicxt:h0l781re411b@104.227.1.70:7666",
+"http://hrblicxt:h0l781re411b@104.227.120.218:7292",
+"http://hrblicxt:h0l781re411b@192.241.112.146:7648",
+"http://hrblicxt:h0l781re411b@45.72.40.144:9238",
+"http://hrblicxt:h0l781re411b@209.127.143.74:8173",
+"http://hrblicxt:h0l781re411b@45.87.243.118:6120",
+"http://hrblicxt:h0l781re411b@23.236.247.115:8147"
+]
+}
